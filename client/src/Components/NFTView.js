@@ -63,7 +63,7 @@ export const NFTView = () => {
           <VStack align="center" spacing={5}>
             <Box h="400px" w="500px">
               <Image
-                src={IPFSUtil.getHashURL(data?.image)}
+                src={data?.image && IPFSUtil.getHashURL(data.image)}
                 h="100%"
                 w="100%"
                 objectFit="cover"

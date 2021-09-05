@@ -17,6 +17,7 @@
     "@truffle/contract": "^4.3.24",
     "axios": "^0.21.1",
     "babel-plugin-module-resolver": "^4.1.0",
+    "cids": "^1.1.9",
     "formik": "^2.2.9",
     "framer-motion": "^4",
     "ipfs-http-client": "^52.0.2",
