@@ -5,5 +5,4 @@ node_modules/
 cache/
 client/node_modules
 client/.env
-client/src/artifacts
 client/.next
