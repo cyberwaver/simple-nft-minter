@@ -8,7 +8,7 @@
   "scripts": {
     "dev": "npx next dev -p 4000",
     "build": "npx next build",
-    "start": "npx next start",
+    "start": "npx next start -p $PORT",
     "lint": "npx next lint"
   },
   "dependencies": {

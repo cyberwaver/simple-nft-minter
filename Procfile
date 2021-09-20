@@ -1,1 +1,1 @@
-web: cd client && yarn && yarn build && yarn start -p $PORT
+web: cd client && yarn && yarn build && yarn start
